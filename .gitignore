@@ -1,0 +1,9 @@
+# Logs
+logs
+*.Logs
+
+# Compiled file
+dist/bundle.js
+
+# Dependency directories
+node_modules/
